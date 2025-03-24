@@ -1,17 +1,20 @@
 # Personal Info
 ## ℹ️ Introduction
-
-- ✊ 만족할 줄 모르고, 늘 끝없는 도전을 추구하는 개발자입니다.
-- ⚔️ 일단 방향을 설정했으면 그곳에서 어떤 결과든 얻어내고자 분투하는 개발자입니다.
-- 🌐 현재는 Spring Boot를 활용한 웹 개발에 집중하고 있습니다.
-- ✏️ 2024/07 ~ 2024/12(예정) 개인 프로젝트 준비 중입니다.
-- 💡 사람들에게 필요한 것을 제공할 수 있는 개발자가 되겠습니다.
+### Hello, my name is Jun Hyeok Park!
+- ✊ No satisfaction, just pursue the infinite challenge.
+- ⚔️ Once the direction is settled, struggle to get whatever results and experience.
+- 🌐 In presence, focusing on the web development project named Modusplant.
+- 💡 Want to be a developer that provides what the people want.
 <br>
 
 ## 📖 Personal Blog
-- ⚙️ 기술 블로그: [Tech Blog(Tistory)](https://akdnjs0308.tistory.com/)
-- 💬 비기술 블로그: [Non-Tech Blog(Naver Blog)](https://blog.naver.com/akdnjs0308)
+- ⚙️ Tech Blog: [Tech Blog(Tistory)](https://akdnjs0308.tistory.com/)
+- 💬 Non-Tech Blog: [Non-Tech Blog(Naver Blog)](https://blog.naver.com/akdnjs0308)
 <br>
+
+## Contact Me
+- ✉️ E-mail: akdnjs0308@gmail.com
+- :octocat: GitHub: https://github.com/Reality-out/Reality-out
 
 ## 🧑‍💻 Algorithm Tier
 #### ❇️ Baekjoon Online Judge 
