@@ -3,7 +3,7 @@
 ### Hello, my name is Jun Hyeok Park!
 - ✊ No satisfaction, just pursue the infinite challenge.
 - ⚔️ Once the direction is settled, struggle to get whatever results and experience.
-- 🌐 In presence, focusing on the web development project named Modusplant.
+- 🌐 In presence, focusing on the web development project named ModusPlant.
 - 💡 Want to be a developer that provides what the people want.
 <br>
 
