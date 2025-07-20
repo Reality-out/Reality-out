@@ -18,31 +18,47 @@
 <br>
 
 ## 🧑‍💻 Algorithm Tier
-#### ❇️ Baekjoon Online Judge 
+### ❇️ Baekjoon Online Judge 
 [![Solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgurdl12)](https://solved.ac/profile/wnsgurdl12)
 <br>
 <br>
 
 ## 📚 Tech Stack
-#### Front-End(Mainly Used)
+### 🎯 Back-End
+#### \<Programming Language\>
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+<br>
+
+#### \<Database\>
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)]()
+<br>
+
+#### \<Framework\>
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()
+[![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)]()
+
+#### \<Testing\>
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)]()
+
+#### \<Build Tool\>
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)]()
+
+#### \<Documentation\>
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)]()
+
+### 💻 Front-End
 [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-<br>
-
-#### Back-End(Mainly Used)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)]()
-<br>
-
-#### VCS(Mainly Used)
-[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
-<br>
-
-#### Front-End(Sometimes Used)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)]()
 <br>
+
+### 🕹️ VCS
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+
+### ☁️ Cloud
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
 <br>
 
 ## 🗒️ GitHub Summary
