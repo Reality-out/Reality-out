@@ -62,7 +62,3 @@
 ### ☁️ Cloud
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]()
 <br>
-
-## 🗒️ GitHub Summary
-<a href="https://github.com/Reality-out/spring-side-project1"><img align="top" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Reality-out&hide_rank=true" alt="GitHub Stats"></a>
-<a href="https://github.com/Reality-out/spring-side-project1"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reality-out&layout=compact" alt="Top Languages"></a>
